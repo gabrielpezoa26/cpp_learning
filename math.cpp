@@ -18,9 +18,9 @@ int	main()
 	addition_result = x + y;
 	while (addition_result < big_potato)
 	{
-		std::cout << addition_result << '\n';
+		cout << addition_result << '\n';
 		if (addition_result == big_potato - 1)
-			cout << "ihu" << '\n';
+			cout << "ihuu" << '\n';
 		addition_result++;
 	}
 	return (0);
